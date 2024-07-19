@@ -1,0 +1,60 @@
+C:\test\New folder2\aspnetcoreapp\bin\Debug\net8.0\appsettings.Development.json
+C:\test\New folder2\aspnetcoreapp\bin\Debug\net8.0\appsettings.json
+C:\test\New folder2\aspnetcoreapp\bin\Debug\net8.0\aspnetcoreapp.staticwebassets.runtime.json
+C:\test\New folder2\aspnetcoreapp\bin\Debug\net8.0\aspnetcoreapp.exe
+C:\test\New folder2\aspnetcoreapp\bin\Debug\net8.0\aspnetcoreapp.deps.json
+C:\test\New folder2\aspnetcoreapp\bin\Debug\net8.0\aspnetcoreapp.runtimeconfig.json
+C:\test\New folder2\aspnetcoreapp\bin\Debug\net8.0\aspnetcoreapp.dll
+C:\test\New folder2\aspnetcoreapp\bin\Debug\net8.0\aspnetcoreapp.pdb
+C:\test\New folder2\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\New folder2\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.AssemblyInfoInputs.cache
+C:\test\New folder2\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.AssemblyInfo.cs
+C:\test\New folder2\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.csproj.CoreCompileInputs.cache
+C:\test\New folder2\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.MvcApplicationPartsAssemblyInfo.cache
+C:\test\New folder2\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.RazorAssemblyInfo.cache
+C:\test\New folder2\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.RazorAssemblyInfo.cs
+C:\test\New folder2\aspnetcoreapp\obj\Debug\net8.0\staticwebassets.build.json
+C:\test\New folder2\aspnetcoreapp\obj\Debug\net8.0\staticwebassets.development.json
+C:\test\New folder2\aspnetcoreapp\obj\Debug\net8.0\staticwebassets\msbuild.aspnetcoreapp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\test\New folder2\aspnetcoreapp\obj\Debug\net8.0\staticwebassets\msbuild.build.aspnetcoreapp.props
+C:\test\New folder2\aspnetcoreapp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.aspnetcoreapp.props
+C:\test\New folder2\aspnetcoreapp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.aspnetcoreapp.props
+C:\test\New folder2\aspnetcoreapp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\test\New folder2\aspnetcoreapp\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\test\New folder2\aspnetcoreapp\obj\Debug\net8.0\scopedcss\bundle\aspnetcoreapp.styles.css
+C:\test\New folder2\aspnetcoreapp\obj\Debug\net8.0\scopedcss\projectbundle\aspnetcoreapp.bundle.scp.css
+C:\test\New folder2\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.dll
+C:\test\New folder2\aspnetcoreapp\obj\Debug\net8.0\refint\aspnetcoreapp.dll
+C:\test\New folder2\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.pdb
+C:\test\New folder2\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.genruntimeconfig.cache
+C:\test\New folder2\aspnetcoreapp\obj\Debug\net8.0\ref\aspnetcoreapp.dll
+C:\test\calculator\aspnetcoreapp\bin\Debug\net8.0\appsettings.Development.json
+C:\test\calculator\aspnetcoreapp\bin\Debug\net8.0\appsettings.json
+C:\test\calculator\aspnetcoreapp\bin\Debug\net8.0\aspnetcoreapp.staticwebassets.runtime.json
+C:\test\calculator\aspnetcoreapp\bin\Debug\net8.0\aspnetcoreapp.exe
+C:\test\calculator\aspnetcoreapp\bin\Debug\net8.0\aspnetcoreapp.deps.json
+C:\test\calculator\aspnetcoreapp\bin\Debug\net8.0\aspnetcoreapp.runtimeconfig.json
+C:\test\calculator\aspnetcoreapp\bin\Debug\net8.0\aspnetcoreapp.dll
+C:\test\calculator\aspnetcoreapp\bin\Debug\net8.0\aspnetcoreapp.pdb
+C:\test\calculator\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\calculator\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.AssemblyInfoInputs.cache
+C:\test\calculator\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.AssemblyInfo.cs
+C:\test\calculator\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.csproj.CoreCompileInputs.cache
+C:\test\calculator\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.MvcApplicationPartsAssemblyInfo.cache
+C:\test\calculator\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.RazorAssemblyInfo.cache
+C:\test\calculator\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.RazorAssemblyInfo.cs
+C:\test\calculator\aspnetcoreapp\obj\Debug\net8.0\staticwebassets.build.json
+C:\test\calculator\aspnetcoreapp\obj\Debug\net8.0\staticwebassets.development.json
+C:\test\calculator\aspnetcoreapp\obj\Debug\net8.0\staticwebassets\msbuild.aspnetcoreapp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\test\calculator\aspnetcoreapp\obj\Debug\net8.0\staticwebassets\msbuild.build.aspnetcoreapp.props
+C:\test\calculator\aspnetcoreapp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.aspnetcoreapp.props
+C:\test\calculator\aspnetcoreapp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.aspnetcoreapp.props
+C:\test\calculator\aspnetcoreapp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\test\calculator\aspnetcoreapp\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\test\calculator\aspnetcoreapp\obj\Debug\net8.0\scopedcss\bundle\aspnetcoreapp.styles.css
+C:\test\calculator\aspnetcoreapp\obj\Debug\net8.0\scopedcss\projectbundle\aspnetcoreapp.bundle.scp.css
+C:\test\calculator\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.dll
+C:\test\calculator\aspnetcoreapp\obj\Debug\net8.0\refint\aspnetcoreapp.dll
+C:\test\calculator\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.pdb
+C:\test\calculator\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.genruntimeconfig.cache
+C:\test\calculator\aspnetcoreapp\obj\Debug\net8.0\ref\aspnetcoreapp.dll

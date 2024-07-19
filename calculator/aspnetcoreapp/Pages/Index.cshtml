@@ -1,0 +1,29 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+     <form action="" method="POST">
+    <input type="text" placeholder="Enter Num1" name="num1">
+    <input type="text" placeholder="Enter Num2" name="num2"><br><br>
+    <input type="submit" value="+" name="ADD">
+    <input type="submit" value="-" name="SUB">
+    <input type="submit" value="/" name="DIV">
+    <input type="submit" value="*" name="MUL">
+    <input type="submit" value="POW" name="POW">
+    <input type="submit" value="SQR" name="SQR">
+    <input type="submit" value="CUBE" name="CUBE">
+
+ 
+    <p>Result<p>@ViewData["summation"]</p>
+    <p>@ViewData["Square"]</p>
+    <p>@ViewData["POWER"]</p>
+    <p>@ViewData["SUBTRACTION"]</p>
+    <p>@ViewData["DIVISION"]</p>
+    <p>@ViewData["MULTIPLY"]</p>
+    <p>@ViewData["CUB"]</p>
+    </form>
+
+</div>
